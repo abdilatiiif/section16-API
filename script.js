@@ -301,9 +301,5 @@ btn.addEventListener('click', whereIm);
 */
 
 function createImage(url) {
-  return new Promise((resolve, reject) => {});
+  return new Promise((resolve, reject) => { });
 }
-
-console.log("this is a test for github");
-console.log("this is a test for github 2");
-console.log("this is a test for github 3");
